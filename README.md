@@ -1,5 +1,7 @@
 # Chào mừng các bạn đến với Day 22: LangSmith + Prompt Versioning
 
+**LangSmith Project URL:** [day22-lab](https://apac.smith.langchain.com/o/b630a2ce-0d12-47e2-bb9f-20cc5c42ea8c/projects/p/fdd2e360-da4d-4ede-94a5-460cbae13342?timeModel=%7B%22duration%22%3A%221d%22%7D)
+
 ## Tổng quan
 
 Trong lab này, bạn sẽ xây dựng một hệ thống hỏi đáp hoàn chỉnh tích hợp nhiều công nghệ AI hiện đại:
